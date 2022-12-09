@@ -2,7 +2,7 @@
   
 
 <p align="left">
-<a href="#"><img title="Made in Nepal" src="https://img.shields.io/badge/MADE%20IN-NEPAL-red?colorA=#ff0000&colorB=#3F00FF&style=for-the-badge"></a>
+<a href="#"><img title="Made in Nepal" src="https://img.shields.io/badge/MADE%20IN-NEPAL-red?colorA=#ff0000&colorB=#0000ff&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="#"><img title="blackeye-im" src="https://i.imgur.com/5N5Kdjw.png"></a>
